@@ -29,7 +29,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`AutoGen`}
+      title={"AutoGen"}
       description="Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework">
       <HomepageHeader />
       <main>
